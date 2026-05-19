@@ -1,0 +1,6 @@
+{
+  "name": "SwiftRead Jukebox",
+  "description": "A stylish Material Design 3 speed-reading jukebox. Explore thousands of free classics from Gutendex or upload your own tracks for a high-tempo reading experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
